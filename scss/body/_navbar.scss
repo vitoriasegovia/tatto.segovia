@@ -1,0 +1,25 @@
+
+.botonera{
+    
+    .logo{
+        font-family: $mainFont;
+        font-size: $textLg;
+        color: $color4;
+        
+        
+    }
+    ul{
+        li{
+            a{
+                font-family: $mainFont;
+                color: $color4;
+                font-size: $textSm;
+            }
+        }
+    }
+
+}
+.dropdown-menu{
+    transform: translateX(-15%);
+
+}
